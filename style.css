@@ -266,6 +266,7 @@ body {
   background-color: inherit;
   border: none;
   font-size: 1.2rem;
+  cursor: pointer;
 }
 
 .quantity input {
